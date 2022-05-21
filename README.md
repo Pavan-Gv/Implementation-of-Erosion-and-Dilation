@@ -23,6 +23,8 @@ Show the Erroded and Dilated Images with Original Image.
 ## Program:
 
 ``` Python
+Developed by: G Venata Pavan Kumar
+Register Number: 212221240013
 # Import the necessary packages
 import cv2
 import numpy as np
